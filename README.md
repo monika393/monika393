@@ -1,4 +1,4 @@
-<!-- Profile: monika393 -->
+update my profile README.md <!-- Profile: monika393 -->
 
 <h1 align="center">Hi, I'm Monika</h1>
 
@@ -63,4 +63,4 @@ I build clear, runnable ML examples that scale from small, local datasets to pro
 ## Contact
 Open an issue/discussion on any repo and I’ll get back to you.
 
-<sub>Profile generated from active repositories and interests.</sub>
+<sub>Profile generated from active repositories and interests.</sub> to include two new projects https://github.com/monika393/openmetadata-docker-demo and https://github.com/monika393/great-expectations-demo
