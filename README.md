@@ -1,5 +1,10 @@
 <!-- Profile: monika393 -->
 
+### Latest Projects
+- **[hospital-queue-simulation](https://github.com/monika393/hospital-queue-simulation)** — Discrete-event simulation of hospital queues with SimPy/Salabim, scenario builder, and Streamlit UI for wait-vs-cost trade-offs.
+- **[python-constraint-programming](https://github.com/monika393/python-constraint-programming)** — Constraint programming recipes (scheduling, assignment, routing) using OR-Tools / python-constraint with clear, reproducible notebooks.
+- **[pyspark-optimization](https://github.com/monika393/pyspark-optimization)** — PySpark performance patterns: partitioning, joins, AQE, UDF/UDTF tips, and memory-friendly DataFrame pipelines.
+
 <h1 align="center">Hi, I'm Monika</h1>
 
 <p align="center">
@@ -41,6 +46,9 @@ I build clear, runnable ML examples that scale from small, local datasets to pro
 
 | Repository | What it is | Primary Stack | Updated |
 |---|---|---|---|
+| **[hospital-queue-simulation](https://github.com/monika393/hospital-queue-simulation)** | DES of hospital queues; SimPy/Salabim + Streamlit scenarios; wait & cost trade-offs. | Python, SimPy, Salabim, Streamlit | recently |
+| **[python-constraint-programming](https://github.com/monika393/python-constraint-programming)** | Constraint programming recipes (scheduling/assignment/routing) with OR-Tools / python-constraint. | Python, OR-Tools | recently |
+| **[pyspark-optimization](https://github.com/monika393/pyspark-optimization)** | PySpark performance patterns: joins, partitioning, AQE, and tuning playbook. | PySpark, Spark SQL | recently |
 | **[openmetadata-docker-demo](https://github.com/monika393/openmetadata-docker-demo)** | OpenMetadata local stack with MySQL/Elasticsearch, YAML-based ingestion, profiling, and test cases. | Docker, YAML, MySQL | recently |
 | **[great-expectations-demo](https://github.com/monika393/great-expectations-demo)** | GX 0.18/1.x notebooks: onboarding/missingness assistants, custom expectations, validation exports. | Python, GX, Pandas | recently |
 | **[federated_learning_flower](https://github.com/monika393/federated_learning_flower)** | Minimal Flower demos for FL client/server training and evaluation. | Python | 3 minutes ago |
