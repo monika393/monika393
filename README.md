@@ -1,6 +1,6 @@
 <!-- Profile: monika393 (resume-ready) -->
 
-# Monika — AI Engineer
+# Monika — AI ML Engineer
 
 **Professional Summary**  
 AI engineer who ships clear, runnable examples that scale from local notebooks to production-ready baselines. Practical focus on LLM orchestration, anomaly detection (visual & tabular), causal inference, and feature pipelines. I build lean, reproducible AI systems with strong observability, reproducible experiments, and fast feedback loops — balancing model quality with operational simplicity.
